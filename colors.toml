@@ -1,0 +1,36 @@
+# Beirut — from the Levantine Sunset collection.
+# clay and amber on a soft indigo base.
+mode = "dark"
+
+accent = "#E8A63F"
+selection = "#3E3141"
+muted = "#3E3446"
+
+background = "#171118"
+dark_background = "#140E16"
+darker_background = "#110B12"
+lighter_background = "#1F1824"
+
+foreground = "#F0E5D3"
+dark_foreground = "#6D6478"
+light_foreground = "#CBBFAB"
+bright_foreground = "#FFF8EA"
+
+hyprland_active_border = "rgba(e8a63fee) rgba(d9744eee) 45deg"
+hyprland_inactive_border = "rgba(3e3446aa)"
+
+red = "#D9744E"
+yellow = "#E8A63F"
+orange = "#E28A42"
+green = "#A3AF62"
+cyan = "#88ADA2"
+blue = "#92A0B9"
+magenta = "#CD87A2"
+brown = "#6B4A30"
+
+bright_red = "#E88A63"
+bright_yellow = "#F2B855"
+bright_green = "#B5C077"
+bright_cyan = "#9CBFB4"
+bright_blue = "#A5B3CA"
+bright_magenta = "#DC9BB4"
